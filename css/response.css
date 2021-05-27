@@ -1,0 +1,256 @@
+@charset "utf-8";
+/* CSS Document */
+@media screen and (max-width:1024px) {
+    .inner_h {
+        padding: 32px 48px;
+    }
+    .visual .hl_wrap {
+        padding: 64px;
+    }
+    section {
+        padding: 120px 48px;
+    }
+    .apr {
+        padding-right: 150px;
+    }
+    .article50 {
+        padding: 0 48px;
+    }
+    .pkc_para {
+        padding-top: 0;
+    }
+    .img_economy {
+        width: 360px;
+    }
+    .float_summ {
+        right: 0px;
+        bottom: -88px;
+    }
+    .cd-horizontal-timeline.loaded {
+        padding: 0 48px !important;
+    }
+    section.subscribe {
+        padding: 60px 48px 0 48px;
+    }
+    footer .inner_b {
+        padding: 40px 48px;
+    }
+}
+@media screen and (max-width:834px) {
+    .apl {
+        width: 50%;
+    }
+    .apr {
+        width: 50%;
+        padding-left: 0px;
+        padding-right: 0px;
+    }
+    .pkc_mockup {
+        width: 79%;
+        top: 82px;
+        left: -128px;
+        position: absolute;
+    }
+    .pkc_para {
+        padding-bottom: 150px;
+        width: 56%;
+    }
+    .article_item {
+        width: 50%;
+        margin-bottom: 24px;
+    }
+    .float_summ {
+        right: 32px;
+    }
+    .team_item {
+        width: 33.3%;
+    }
+    section.subscribe {
+        padding: 60px 0px 0 0px;
+    }
+    .subscribe_box_l {
+        float: inherit;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 8px;
+    }
+    .subscribe_box_r {
+        float: inherit;
+        text-align: center;
+    }
+    .subscribe_wrap {
+        padding: 32px 48px 52px 48px;
+        border-radius: 0;
+    }
+}
+@media screen and (max-width:540px) {
+    .visual .hl_wrap {
+        padding: 64px 48px;
+    }
+    .inner_h {
+        padding: 32px;
+    }
+    .hl_wrap .hl_text {
+        font-size: 48px;
+        line-height: 50px;
+    }
+    .hl_wrap .hl_text span.strong {
+        font-size: 54px;
+    }
+    section {
+        padding: 120px 32px;
+    }
+    .apl {
+        width: 100%;
+        float: inherit;
+        margin-bottom: 24px;
+    }
+    .apr {
+        width: 100%;
+    }
+    .pkc_para {
+        padding-bottom: 264px;
+        width: 100%;
+    }
+    .article50 {
+        padding: 0 32px;
+    }
+    .img_economy {
+        width: 300px;
+    }
+    .pkc_mockup {
+        width: 90%;
+        top: 278px;
+        left: 139px;
+        position: absolute;
+    }
+    .cd-horizontal-timeline.loaded {
+        padding: 0 32px !important;
+    }
+    section.subscribe {
+        padding: 60px 0 0 0;
+    }
+    footer .inner_b {
+        padding: 40px 32px;
+    }
+    footer .fls {
+        float: inherit;
+        width: 100%;
+    }
+    footer .frs {
+        float: inherit;
+        width: 100%;
+    }
+}
+@media screen and (max-width:450px) {
+    .visual .hl_wrap {
+        text-align: center;
+    }
+    .hl_wrap .hl_text {
+        font-size: 42px;
+        line-height: 44px;
+    }
+    .hl_wrap .hl_text span.strong {
+        font-size: 48px;
+    }
+    .sl_text {
+        padding-top: 16px;
+    }
+    .scroll-downs {
+        top: 590px;
+    }
+    .article_img {
+        text-align: center;
+    }
+    .pkc_para {
+        padding-bottom: 330px;
+    }
+    .pkc_mockup {
+        width: 100%;
+        top: 416px;
+        left: 0%;
+    }
+    .article_item {
+        min-height: 140px;
+    }
+    .article_item li.an_num {
+        font-size: 42px;
+    }
+    .float_summ {
+        right: 0;
+        left: 0;
+        bottom: 4px;
+    }
+    .cd-horizontal-timeline.loaded {
+        padding: 0 32px !important;
+    }
+    .team_item {
+        width: 50%;
+        min-height: 350px;
+    }
+    .subscribe_wrap {
+        padding: 32px 32px 52px 32px;
+    }
+    form:after {
+        content: "";
+        display: block;
+        clear: both;
+    }
+    form .subs_input {
+        border-radius: 32px 0 0 32px;
+        float: left;
+        width: calc(100% - 108px);
+    }
+    form .subs_submit {
+        border-radius: 0 32px 32px 0;
+        padding-left: 16px;
+        width: 108px;
+        float: right;
+    }
+		.fls li:nth-child(2){
+		font-size: 13px;
+	}
+
+}
+@media screen and (max-width:414px) {}
+@media screen and (max-width:375px) {
+    .inner_h {
+        padding: 24px;
+    }
+    .visual .hl_wrap {
+        text-align: center;
+        padding: 30px 28px;
+    }
+    .article_subtitle {
+        font-size: 32px;
+    }
+    .apl {
+        font-size: 32px;
+        line-height: 40px;
+    }
+    section {
+        padding: 120px 24px;
+    }
+	.article50 {
+    padding: 0 24px;
+}
+	.article_item li.an_summ {
+		font-size: 12px;
+	}
+	.cd-horizontal-timeline.loaded {
+    padding: 0 24px !important;
+}
+	.subscribe_wrap {
+    padding: 32px 24px 52px 24px;
+}
+	.fls li:nth-child(2){
+		font-size: 12px;
+	}
+
+}
+@media screen and (max-width:360px) {
+	.hl_wrap .hl_text span.strong {
+    font-size: 46px;
+}
+}
+@media screen and (max-width:320px) {}
